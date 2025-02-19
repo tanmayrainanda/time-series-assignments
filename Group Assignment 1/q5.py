@@ -80,7 +80,6 @@ plot_theoretical_acf_pacf(ma_params=[-0.5, -0.2], title="Model (e): MA(2)")
 
 
 '''
-Let me analyze each model's ACF and PACF plots:
 
 Model (c): Xt = 1.40Xt-1 - 0.48Xt-2 + εt (AR(2))
 - ACF shows:
